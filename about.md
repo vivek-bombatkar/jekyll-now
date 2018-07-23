@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+- Cloudera Certified Spark and Hadoop Developer (CCA175).
+ - From more than 10 years working on Data Warehouse, Big Data and ETL Application development projects. And still have adequate appetite for up-and-coming technologies!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bombatkar.vivek@gmail.com](mailto:bombatkar.vivek@gmail.com)
+[linkedin.com/in/vivek-bombatkar](linkedin.com/in/vivek-bombatkar) 
+[github.com/vivek-bombatkar](github.com/vivek-bombatkar)
