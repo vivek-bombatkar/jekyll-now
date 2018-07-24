@@ -1,5 +1,7 @@
-# Python-Basics
 > its fun learning python (again!) :-)
+
+
+
 
 ## global veriable 
 > https://stackoverflow.com/questions/423379/using-global-variables-in-a-function-other-than-the-one-that-created-them
