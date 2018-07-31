@@ -1,6 +1,6 @@
-# Because its never late to start taking notes and 'public' it...
+### Because its never late to start taking notes and 'public' it...
 
-## This file contains random technical notes, please follow individual folders for specific technology. 
+### This file contains random technical notes, please follow individual folders for specific technology. 
 
 
 ### get HDFS file size 
@@ -234,6 +234,7 @@ where a.field1 <> b.field2
 - Log4j has three main components: loggers, appenders and layouts  
 
 - Logging to the console  
+
 ```
 log4j.rootLogger=ERROR,stdout
 log4j.logger.com.endeca=INFO
@@ -246,6 +247,7 @@ log4j.appender.stdout.layout.ConversionPattern=%p\t%d{ISO8601}\t%r\t%c\t[%t]\t%m
 ```
 
 - Logging to a file  
+
 ```
 # initialize root logger with level ERROR for stdout and fout
 log4j.rootLogger=ERROR,stdout,fout
