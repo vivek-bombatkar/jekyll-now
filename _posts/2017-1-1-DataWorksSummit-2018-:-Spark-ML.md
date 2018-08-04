@@ -1,8 +1,9 @@
-> [Code on Git](https://github.com/vivek-bombatkar/DataWorksSummit2018_Spark_ML/blob/master/README.md)
+[Code on Git](https://github.com/vivek-bombatkar/DataWorksSummit2018_Spark_ML/blob/master/README.md)
 
 
 
-> https://dataworkssummit.com/berlin-2018/
+
+[dataworkssummit](https://dataworkssummit.com/berlin-2018/)
 
 
 ## Machine-Learning-techniques-with-Apache-Spark
