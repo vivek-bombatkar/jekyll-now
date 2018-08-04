@@ -1,5 +1,5 @@
 
-> `nextGeneration` is the project was created under 48 hours hackathon ([HackBay](https://www.hackbay.de/), [zollhof](https://www.zollhof.de/)) for Siemens, MindSphere in Nuremberg.
+`nextGeneration` is the project was created under 48 hours hackathon ([HackBay](https://www.hackbay.de/), [zollhof](https://www.zollhof.de/)) for Siemens, MindSphere in Nuremberg.
 
 
 
