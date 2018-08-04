@@ -1,4 +1,6 @@
-> [Code on Git](https://github.com/vivek-bombatkar/Adidas_Amsterdam_2018)
+[Code on Git](https://github.com/vivek-bombatkar/Adidas_Amsterdam_2018)
+
+
 
 <img src="https://github.com/vivek-bombatkar/Adidas_Amsterdam_2018/blob/master/adidas.JPG" width="130" height="100" />
 
