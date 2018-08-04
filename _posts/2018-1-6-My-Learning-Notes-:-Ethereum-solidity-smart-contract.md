@@ -1,4 +1,6 @@
-> [Code on Git](https://github.com/vivek-bombatkar/Ethereum-solidity-smart-contract)
+[Code on Git](https://github.com/vivek-bombatkar/Ethereum-solidity-smart-contract)
+
+
 
 
 ### 1. Online portal to practice smart contract
