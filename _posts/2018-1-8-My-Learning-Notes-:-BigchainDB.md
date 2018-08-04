@@ -1,4 +1,6 @@
-> [Code on Git](https://github.com/vivek-bombatkar/BigchainDB-Practice)
+[Code on Git](https://github.com/vivek-bombatkar/BigchainDB-Practice)
+
+
 
 ![Logo of the project](https://github.com/vivek-bombatkar/BigchainDB-Practice/blob/master/pics/bigchaindb_logo.JPG)
 
