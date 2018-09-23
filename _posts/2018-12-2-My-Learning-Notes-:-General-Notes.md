@@ -1,3 +1,3 @@
 ### Because its never late to start taking notes and 'public' it...  
 
-[Details](https://github.com/vivek-bombatkar/MyLearningNotes/blob/master/README.md)
+[Details](https://github.com/vivek-bombatkar/MyLearningNotes)
