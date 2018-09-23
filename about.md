@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 - I am Developer, Hacker and Outdoor person.
-- From more than 10 years working on Data Warehouse, Big Data and ETL Application development projects. And still have adequate appetite for up-and-coming technologies!
+- 10+ years of experience gave me expertise on : Big Data Pipelines, Data Analytics, Data Architecture, ETL Application development, Data Warehouse, and still have adequate appetite for new technologies! 
 - Keen interest in Big Data, Applied Machine Learning and Blockchain technology.
 
 
